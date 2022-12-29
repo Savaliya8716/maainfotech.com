@@ -699,7 +699,7 @@
         </div>
       </div>
 
-      <?php include(' /contact.php'); ?>
+      <?php include(' forms/contact.php'); ?>
 
     </div>
   </section><!-- End Contact Section -->
